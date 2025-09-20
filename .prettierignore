@@ -1,0 +1,24 @@
+# Build outputs
+.next
+out
+build
+
+# Dependencies
+node_modules
+
+# Logs
+*.log
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Env files
+.env*
+
+# Git
+.git
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
